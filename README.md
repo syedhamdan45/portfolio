@@ -55,5 +55,10 @@ Code: https://github.com/syedhamdan45/classification-salary/blob/master/Salary_C
 
 Presentation: https://github.com/syedhamdan45/classification-salary/blob/master/mustafa_1006193209_assignment1.pdf
 
+### Linear Regression
 
+Linear Regression model using different forms of Gradient Descent such as stochastic gradient descent and mini batch gradient descent on the classic Boston House dataset.
 
+The code also uses two types of loss functions- Mean Squared Error Loss and Absolute Error loss. The comparisons are made without the different parameters. The parameters are evaluated by the number of gradient updates and time taken to converge. It also includes derivation 
+
+Code: https://github.com/syedhamdan45/linear-regression/blob/master/Linear_regression.ipynb
