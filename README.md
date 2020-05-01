@@ -44,4 +44,16 @@ Code: https://github.com/syedhamdan45/canada-elections/blob/master/mustafa_10061
 
 Presentation: https://github.com/syedhamdan45/canada-elections/blob/master/mustafa_1006193209_assignment2.pdf
 
+### Data Scientists Salary Classification
+
+Project to identify skills that are important for data scientists to posses based on salary level as a target variable. The goal is to identify skills and qualifications from the survey that are important to learn in data science field in order to have a high salary.
+Dataset taken from: https://www.kaggle.com/kaggle/kaggle-survey-2018/
+
+The model includes data cleaning, visualization and exploration. The data exploration includes feature engineering and selection to ensure the best features are selected. The model implemented here is Logistic Regression-One Versus Rest Classifier- since there this is an ordinary multi class classification algorithm multiclass problem. Bias vs Variance trade-off is also discussed in the code.
+
+Code: https://github.com/syedhamdan45/classification-salary/blob/master/Salary_Classification_Project.ipynb
+
+Presentation: https://github.com/syedhamdan45/classification-salary/blob/master/mustafa_1006193209_assignment1.pdf
+
+
 
