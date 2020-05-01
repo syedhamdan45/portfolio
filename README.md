@@ -1,7 +1,9 @@
 # Portfolio
 ## Personal Details:
 **Name**: Syed Hamdan Mustafa
+
 **Email**: syedhamdan45@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/syedhamdan45/
 
 
@@ -35,3 +37,8 @@ The features for the above is created using both Count Vectorizer and TF-IDF. Th
 - Random Forest
 - XG Boost
 - Convolutional Neural Network
+
+Code: https://github.com/syedhamdan45/canada-elections/blob/master/mustafa_1006193209_assignment2.ipynb
+Presentation: https://github.com/syedhamdan45/canada-elections/blob/master/mustafa_1006193209_assignment2.pdf
+
+
