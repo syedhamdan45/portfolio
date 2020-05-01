@@ -20,9 +20,12 @@ I am currently a Master of Engineering student at the University of Toronto purs
 
 
 ## Projects:
+
+### Information Retrieval System
+
 ### Fake News Detection
 
-Natural Language Protcessing (NLP) Project is based on "Leaders Prize: Fact or Fake News?" Competition http://leadersprize.truenorthwaterloo.com
+Natural Language Processing (NLP) Project is based on "Leaders Prize: Fact or Fake News?" Competition http://leadersprize.truenorthwaterloo.com
 
 The project includes cleaning, exploration and visualiazation of data. In addition, the project implements various model such as Logistic Regression, Random Forrest, Naive Bayes and Convulation Neural Network to classify the news headline as either Fake, True and Partly True.
 
