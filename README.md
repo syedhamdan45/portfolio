@@ -8,6 +8,16 @@
 
 **LinkedIn**: https://www.linkedin.com/in/syedhamdan45/
 
+I am currently a Master of Engineering student at the University of Toronto pursuing the degree in Mechanical & Industrial Engineering with the emphasis in Data Analytics. I am seeking full-time work opportunity after I graduate in September 2020.
+
+### Relevant Academic Courses:
+- Foundation of Machine Learning and Data Analytics
+- Introduction to Data Science and Analytics
+- Decision Support Systems
+- AI in Finance
+- Financial Engineering
+- Big Data Science
+
 
 ## Projects:
 ### Fake News Detection
