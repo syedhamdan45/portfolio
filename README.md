@@ -2,7 +2,7 @@
 ## Personal Details:
 **Name**: Syed Hamdan Mustafa
 
-**Contact Number**: (1) 647-444-4629
+**Contact Number**: (+1) 647-444-4629
 
 **Email**: syedhamdan45@gmail.com
 
