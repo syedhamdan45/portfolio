@@ -13,7 +13,9 @@ Natural Language Protcessing (NLP) Project is based on "Leaders Prize: Fact or F
 The project includes cleaning, exploration and visualiazation of data. In addition, the project implements various model such as Logistic Regression, Random Forrest, Naive Bayes and Convulation Neural Network to classify the news headline as either Fake, True and Partly True.
 
 Code: https://github.com/syedhamdan45/fake-news/blob/master/Group_19%20_Fake_News_Project.ipynb
+
 Presentation: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%20Model%20Presentation.pdf
+
 Report: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%20Model%20Consultation%20Report.pdf
 
 ### Canada Federal Elections 2019 Sentiment Analysis
