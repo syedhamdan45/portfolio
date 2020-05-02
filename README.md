@@ -33,6 +33,17 @@ Presentation: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%
 
 Report: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%20Model%20Consultation%20Report.pdf
 
+### Information Retrieval System
+
+The dataset used in the project includes test collection which is about 4,000 documents from US Government web sites and the topics/query are 15 needs for government information. Both were part of the TREC conference in 2003. The aim of the project is to run Whoosh on a large document collection for certain queries and approve on the baseline model.
+
+Three softwares used:
+- Whoosh, a pure-Python search engineering library, 
+- NLTK, a natural language processing toolkit and 
+- pytrec eval, an Information Retrieval evaluation tool for Python, based on the popular trec eval, the standard software for evaluating search engines with test collections.
+
+Code: https://github.com/syedhamdan45/information-retrieval/blob/master/Information_Retrieval_Project.ipynb
+
 ### Canada Federal Elections 2019 Sentiment Analysis
 
 The goal of the project is to essentially use sentiment analysis on Twitter data to get insight into the 2019 Canadian elections.
