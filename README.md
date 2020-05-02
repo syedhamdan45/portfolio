@@ -21,15 +21,6 @@ I am currently a Master of Engineering student at the University of Toronto purs
 
 ## Projects:
 
-### Information Retrieval System
-
-The dataset used in the project includes test collection which is about 4,000 documents from US Government web sites and the topics/query are 15 needs for government information. Both were part of the TREC conference in 2003. The aim of the project is to run Whoosh on a large document collection for certain queries and approve on the baseline model.
-
-Three softwares used:
-- Whoosh, a pure-Python search engineering library, 
-- NLTK, a natural language processing toolkit and 
-- pytrec eval, an Information Retrieval evaluation tool for Python, based  on the popular trec eval, the standard software for evaluating search engines with test collections.
-
 ### Fake News Detection
 
 Natural Language Processing (NLP) Project is based on "Leaders Prize: Fact or Fake News?" Competition http://leadersprize.truenorthwaterloo.com
