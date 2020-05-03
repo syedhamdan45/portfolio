@@ -91,7 +91,7 @@ Code: https://github.com/syedhamdan45/classification-salary/blob/master/Salary_C
 
 Presentation: https://github.com/syedhamdan45/classification-salary/blob/master/mustafa_1006193209_assignment1.pdf
 
-# Network Analysis
+### Network Analysis
 
 Given a dataset of tweets, a hashtag is chosen (#vampirebite) and its network is explored and understood. The visualization of the network is done through NetworkX. The content is analyzed using the most common terms. The key players in the network are discovered using the following centrality measures:
 1. Degree Centrality
