@@ -21,7 +21,7 @@ I am currently a Master of Engineering student at the University of Toronto purs
 
 ## Projects:
 
-# Recommender System Project
+### Recommender System Project
 
 The recommendation dataset used here is from a collection called MovieLens, which contains users' movie ratings and is popular for implementing and testing recommender systems. The specific dataset we will be using for this lab is MovieLens 100K Dataset which contains 100,000 movie ratings from 943 users and a selection of 1682 movies.
 
