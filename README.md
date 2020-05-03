@@ -47,7 +47,7 @@ Presentation: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%
 
 Report: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%20Model%20Consultation%20Report.pdf
 
-## Hotel Reviews Sentiment Analysis Project
+### Hotel Reviews Sentiment Analysis Project
 
 This project involves performing analysis of real hotel review data crawled from the Tripadvisor website to automatically identify positive and negative keywords and phrases associated with hotels and to better understand characteristics of data analysis tools, extracting explanatory review summaries, and human reviewing behavior. The data in this case is chosen for London, Ontario, Canada.
 
