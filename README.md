@@ -1,4 +1,5 @@
 # Portfolio
+
 ## Personal Details:
 **Name**: Syed Hamdan Mustafa
 
@@ -9,14 +10,6 @@
 **LinkedIn**: https://www.linkedin.com/in/syedhamdan45/
 
 I am currently a Master of Engineering student at the University of Toronto pursuing the degree in Mechanical & Industrial Engineering with the emphasis in Data Analytics. I am seeking full-time work opportunity after I graduate in September 2020.
-
-### Relevant Academic Courses:
-- Foundation of Machine Learning and Data Analytics
-- Introduction to Data Science and Analytics
-- Decision Support Systems
-- AI in Finance
-- Financial Engineering
-- Big Data Science
 
 
 ## Projects:
@@ -33,7 +26,7 @@ The notebook explores three different similarity metrics in cosine, eucledian an
 
 The different algorithms are compared by metrics such as RMSE, Precision@K, Recall@K after cross-validation. The Collaborative Filtering algorithm (Item-Item) is also used to make movie recommndations. What should you watch if you liked Men in Black? Only one way to find out.
 
-Code:https://github.com/syedhamdan45/recommender-systems/blob/master/Recommender_Systems_Project.ipynb
+Code: https://github.com/syedhamdan45/recommender-systems/blob/master/Recommender_Systems_Project.ipynb
 
 ### Fake News Detection
 
