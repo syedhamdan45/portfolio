@@ -31,7 +31,7 @@ The notebook explores three different similarity metrics in cosine, eucledian an
 3. Collaborative Filtering (User-User and Item-Item)
 4. Probabilistic Matrix Factorization (PMF)
 
-The different algorithms are compared by metrics such as RMSE, Precision@K, Recall@K after cross-validation. The Collaborative Filtering algorithm (Item-Item) is also used to make movie recommndation. What should you watch if you liked Men in Black? Only one way to find out.
+The different algorithms are compared by metrics such as RMSE, Precision@K, Recall@K after cross-validation. The Collaborative Filtering algorithm (Item-Item) is also used to make movie recommndations. What should you watch if you liked Men in Black? Only one way to find out.
 
 Code:https://github.com/syedhamdan45/recommender-systems/blob/master/Recommender_Systems_Project.ipynb
 
