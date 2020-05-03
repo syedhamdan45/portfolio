@@ -47,6 +47,25 @@ Presentation: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%
 
 Report: https://github.com/syedhamdan45/fake-news/blob/master/Fake%20News%20Model%20Consultation%20Report.pdf
 
+### Reddit Classification Project
+
+This project analyzes a sample of posts (without their comments) from a small subset of very active subreddits. The key tasks in this project are:
+
+1. Exploratory data analysis.
+2. Automatically classifying posts to their subreddit.
+3. Analyzing the sentiments in reddit post titles.
+
+The EDA also includes data cleaning and understanding the importance of certain featueres which could be utilized in the classification of the posts. There are three algorithms implemented to do the classification:
+- Logistic Regression
+- Naive Bayes
+- Support Vector Machine
+
+There are different feature encoding methods used as well as cross-validation and hyperparameter tuning. The algorithms are compared using the following metrics: accuracy, precision and recall. 
+
+The final part of the project includes using the Vader Analyzier to compute the sentiment of the various posts.
+
+Code: https://github.com/syedhamdan45/reddits-classification/blob/master/Reddit_Classification_Project.ipynb
+
 ### Hotel Reviews Sentiment Analysis Project
 
 This project involves performing analysis of real hotel review data crawled from the Tripadvisor website to automatically identify positive and negative keywords and phrases associated with hotels and to better understand characteristics of data analysis tools, extracting explanatory review summaries, and human reviewing behavior. The data in this case is chosen for London, Ontario, Canada.
