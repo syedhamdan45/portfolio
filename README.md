@@ -58,7 +58,7 @@ Three softwares used:
 
 Code: https://github.com/syedhamdan45/information-retrieval/blob/master/Information_Retrieval_Project.ipynb
 
-### Canada Federal Elections 2019 Sentiment Analysis
+### Canadian Federal Elections 2019 Sentiment Analysis
 
 The goal of the project is to essentially use sentiment analysis on Twitter data to get insight into the 2019 Canadian elections.
 
@@ -90,6 +90,17 @@ The model includes data cleaning, visualization and exploration. The data explor
 Code: https://github.com/syedhamdan45/classification-salary/blob/master/Salary_Classification_Project.ipynb
 
 Presentation: https://github.com/syedhamdan45/classification-salary/blob/master/mustafa_1006193209_assignment1.pdf
+
+# Network Analysis
+
+Given a dataset of tweets, a hashtag is chosen (#vampirebite) and its network is explored and understood. The visualization of the network is done through NetworkX. The content is analyzed using the most common terms. The key players in the network are discovered using the following centrality measures:
+1. Degree Centrality
+2. Betweenness Centrality
+3. Page Rank
+
+The network connectivity patterns are also explored using cliques. A clique in an undirected graph is a subset of the nodes, such that every two different nodes are adjacent (directly connected with an edge).
+
+Code:
 
 ### Linear Regression
 
