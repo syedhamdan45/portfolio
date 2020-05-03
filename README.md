@@ -100,7 +100,7 @@ Given a dataset of tweets, a hashtag is chosen (#vampirebite) and its network is
 
 The network connectivity patterns are also explored using cliques. A clique in an undirected graph is a subset of the nodes, such that every two different nodes are adjacent (directly connected with an edge).
 
-Code:
+Code: https://github.com/syedhamdan45/network-analysis/blob/master/Network_Analysis_Project.ipynb
 
 ### Linear Regression
 
