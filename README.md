@@ -14,6 +14,7 @@ I am currently a Master of Engineering student at the University of Toronto purs
 ## Relevant Academic Courses:
 - Foundations of Machine Learning and Data Analytics
 - Introduction to Data Science and Analytics
+- Introduction to Machine Learning
 - Decision Support Systems
 - Big Data Science
 - AI in Finance
